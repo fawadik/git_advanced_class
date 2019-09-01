@@ -9,4 +9,4 @@ const goodMorning = function() {
 console.log(helloWorld());
 console.log(goodMorning());
 
-console.log("Hello again");
+console.log("Almost there!");
